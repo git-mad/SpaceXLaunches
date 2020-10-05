@@ -3,7 +3,7 @@ An Android app that displays upcoming SpaceX launches for the GITMAD Networking 
 
 ## Lesson
 
-TODO(dwitt): Add link to presentation here.
+[View the presentation](https://docs.google.com/presentation/d/e/2PACX-1vTuGriiqz9CeIHBG3z-TBuRHiK8dUfn1nHIlIJR9B51DGQbwDMesCV2JfC1EkpzejlssjdbXTtdfTgc/pub?start=false&loop=false&delayms=3000&slide=id.g4dc676206e_0_1218)
 
 This app is a tutorial on how to use the `Retrofit` library to make
 HTTP requests within an Android App. To do this, we request upcoming
